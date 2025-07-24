@@ -1,6 +1,5 @@
-![Tu Foto Aquíia la ruta por la de tu foto dentro del repositorio o pon una URL pública --><img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/d867f492-a60f-4705-a527-551a423ebcb6" />
 
-<h1 align="center">¡Hola, soy ANDSweb! 👋</h1> <p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,git,github" alt="Skill Icons" /> </p>
+<h1 align="center">¡Hola, soy ANDSweb! 👋</h1> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,figma,netlify" alt="Skill Icons" /> </p>
 👤 Sobre mí
 💻 Apasionado del desarrollo web y la automatización.
 
