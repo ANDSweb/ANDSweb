@@ -1,3 +1,4 @@
+<img width="964" height="479" alt="image" src="https://github.com/user-attachments/assets/b9dc478f-49e0-4922-ad06-bd780cfb7fed" />
 
 <h1 align="center">¡Hola, soy ANDREU! 👋</h1> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,netlify" alt="Skill Icons" /> </p>
 👤 Sobre mí
